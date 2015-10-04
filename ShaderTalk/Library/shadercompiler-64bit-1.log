@@ -1,0 +1,174 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-19896
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=4 type=0 insize=13030 outsize=11024 kw=UNITY_COLORSPACE_GAMMA _SUNDISK_SIMPLE pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=13030 outsize=1899 kw=UNITY_COLORSPACE_GAMMA _SUNDISK_SIMPLE pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=751 outsize=3533 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=751 outsize=380 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=982 outsize=4337 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=982 outsize=10926 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=982 outsize=3979 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=982 outsize=10618 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=938 outsize=4101 kw=DIRECTIONAL SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=938 outsize=5515 kw=DIRECTIONAL SHADOWS_OFF pd= ok=1
+Cmd: preprocess
+  insize=875 outsize=241 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=933 outsize=1908 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=933 outsize=1331 kw= pd= ok=1
+Cmd: preprocess
+  insize=1799 outsize=1515 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=8455 outsize=4694 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=8455 outsize=12251 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5700 outsize=3931 kw=POINT SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (49): floating point division by zero\nCompiling Fragment program with POINT SHADOWS_OFF
+  api=4 type=1 insize=5700 outsize=6913 kw=POINT SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=8205 outsize=5044 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=8205 outsize=4174 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5199 outsize=4662 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5199 outsize=4467 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=541 outsize=3533 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=541 outsize=453 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5700 outsize=3931 kw=DIRECTIONAL SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (49): floating point division by zero\nCompiling Fragment program with DIRECTIONAL SHADOWS_OFF
+  api=4 type=1 insize=5700 outsize=6149 kw=DIRECTIONAL SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=8455 outsize=5084 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=8455 outsize=12559 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: preprocess
+  insize=875 outsize=241 ok=1
+Cmd: preprocess
+  insize=1799 outsize=1515 ok=1
+Cmd: preprocess
+  insize=884 outsize=250 ok=1
+Cmd: preprocess
+  insize=1808 outsize=1524 ok=1
+Cmd: preprocess
+  insize=1808 outsize=1524 ok=1
+Cmd: preprocess
+  insize=884 outsize=250 ok=1
+Cmd: preprocess
+  insize=884 outsize=250 ok=1
+Cmd: preprocess
+  insize=1808 outsize=1524 ok=1
+Cmd: preprocess
+  insize=884 outsize=250 ok=1
+Cmd: preprocess
+  insize=1808 outsize=1524 ok=1
+Cmd: preprocess
+  error: 2 plat 18 at (13): Surface shader function 'surf' not found
+  insize=609 outsize=511 ok=0
+Cmd: preprocess
+  error: 1 plat 18 at (14): Both vertex and fragment programs must be present in a CGPROGRAM. Excluding it from compilation.
+  insize=202 outsize=214 ok=1
+Cmd: preprocess
+  error: 1 plat 18 at (13): Both vertex and fragment programs must be present in a CGPROGRAM. Excluding it from compilation.
+  error: 1 plat 18 at (13): Unrecognized #pragma directive: Standard
+  insize=592 outsize=400 ok=1
+Cmd: preprocess
+  error: 1 plat 18 at (14): Both vertex and fragment programs must be present in a CGPROGRAM. Excluding it from compilation.
+  insize=209 outsize=214 ok=1
+Cmd: preprocess
+  error: 1 plat 18 at (13): Both vertex and fragment programs must be present in a CGPROGRAM. Excluding it from compilation.
+  error: 1 plat 18 at (13): Unrecognized #pragma directive: Standard
+  insize=596 outsize=399 ok=1
+Cmd: preprocess
+  error: 1 plat 18 at (13): Both vertex and fragment programs must be present in a CGPROGRAM. Excluding it from compilation.
+  error: 1 plat 18 at (13): Unrecognized #pragma directive: Standard
+  insize=591 outsize=399 ok=1
+Cmd: preprocess
+  error: 1 plat 18 at (13): Both vertex and fragment programs must be present in a CGPROGRAM. Excluding it from compilation.
+  error: 1 plat 18 at (13): Unrecognized #pragma directive: Standard
+  insize=594 outsize=399 ok=1
+Cmd: preprocess
+  error: 2 plat 18 at (13): Surface shader function 'surf' not found
+  insize=607 outsize=510 ok=0
+Cmd: preprocess
+  error: 1 plat 18 at (14): Both vertex and fragment programs must be present in a CGPROGRAM. Excluding it from compilation.
+  insize=267 outsize=213 ok=1
+Cmd: preprocess
+  error: 1 plat 18 at (14): Both vertex and fragment programs must be present in a CGPROGRAM. Excluding it from compilation.
+  insize=269 outsize=213 ok=1
+Cmd: preprocess
+  error: 2 plat 18 at (20): Syntax error
+  insize=668 outsize=482 ok=0
+Cmd: preprocess
+  error: 1 plat 18 at (14): Both vertex and fragment programs must be present in a CGPROGRAM. Excluding it from compilation.
+  insize=207 outsize=213 ok=1
+Cmd: preprocess
+  error: 2 plat 18 at (20): Syntax error
+  insize=672 outsize=482 ok=0
+Cmd: preprocess
+  error: 2 plat 18 at (20): Syntax error
+  insize=670 outsize=482 ok=0
+Cmd: preprocess
+  error: 2 plat 18 at (20): Syntax error
+  insize=696 outsize=482 ok=0
+Cmd: preprocess
+  insize=735 outsize=1327 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6993 outsize=3289 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6993 outsize=7603 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3776 outsize=2533 kw=POINT SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3776 outsize=3955 kw=POINT SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6135 outsize=3289 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6135 outsize=1266 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3078 outsize=2265 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3078 outsize=884 kw= pd= ok=1
+Cmd: preprocess
+  insize=734 outsize=1328 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6992 outsize=3289 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6992 outsize=7603 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3775 outsize=2533 kw=POINT SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3775 outsize=3955 kw=POINT SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6134 outsize=3289 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6134 outsize=1266 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3077 outsize=2265 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3077 outsize=884 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3775 outsize=2533 kw=DIRECTIONAL SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3775 outsize=3248 kw=DIRECTIONAL SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6992 outsize=3679 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6992 outsize=7920 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
